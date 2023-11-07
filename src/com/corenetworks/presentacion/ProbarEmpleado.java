@@ -17,5 +17,13 @@ public class ProbarEmpleado {
         Operador o1 = new Operador("Juan López",900,1,1200);
         System.out.println("Calculo nomina operador "+ o1.calcularNomina());
         System.out.println(o1.toString());
+
+
+
+
+
+
     }
+
+
 }
